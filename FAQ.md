@@ -15,6 +15,9 @@ Open the menu, then **Send a call → Notify**. Everyone is ticked by default. U
 ## Where does the animation appear?
 Open the menu, then **On this Mac → Animation position**, and pick the center or a corner. This only changes your own screen.
 
+## How do I change the name teammates see?
+Open the menu and click **Display name** under **Send a call**. Leave it empty to use your Mac's first name.
+
 ## Can someone spam everyone?
 No. You can call once every 30 seconds, and anyone can snooze for an hour.
 
@@ -49,4 +52,4 @@ Tea Time is probably running, but your menu bar is full. This is common on MacBo
 Click the cup in the menu bar and choose **Quit Tea Time**.
 
 ## How do I report a bug or ask for a feature?
-Choose **Send feedback…** in the menu, or [open an issue](https://github.com/ntsh08/Tea-Time/issues) yourself. Say what you did, what you expected, and your macOS version.
+Choose **Send feedback…** in the menu, write what happened, and click Send. It opens a new GitHub issue with your text already filled in, so you need a GitHub account. You can also [open an issue](https://github.com/ntsh08/Tea-Time/issues) yourself. Say what you did, what you expected, and your macOS version.

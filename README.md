@@ -12,9 +12,10 @@ There is no account and no server. Tea Time finds teammates on the local network
 
 | Release date | Download |
 | --- | --- |
+| 19 Oct 2026 | [TeaTime-0.1.1.dmg](https://github.com/ntsh08/Tea-Time/releases/download/v0.1.1/TeaTime-0.1.1.dmg) |
 | 19 Oct 2026 | [TeaTime-0.1.0.dmg](https://github.com/ntsh08/Tea-Time/releases/download/v0.1.0/TeaTime-0.1.0.dmg) |
 
-Open the DMG and drag Tea Time into Applications.
+Open the DMG and drag Tea Time into Applications. If you already have Tea Time, quit it first and choose Replace.
 
 Needs macOS 13 or later. Works on Apple Silicon and Intel Macs.
 
@@ -41,11 +42,11 @@ Click the cup in the menu bar.
 - **Send a call**
   - **Animation** picks which one to send (Chai or Sutta).
   - **Notify** sends to everyone nearby, or only the people you tick.
+  - **Display name** is the name teammates see when you call. Click it to change it.
   - **Preview** plays it on your screen only. **Call** sends it. There is a 30 second wait before you can call again, and you see a small "call sent" card instead of the animation.
 - **On this Mac**
   - **Animation style** switches between Plain (calm) and Dramatic.
   - **Animation position** puts the animation in the center or a corner of your screen.
-  - **Your name** is what teammates see when you call.
   - **Allow sound**, **Snooze for 1 hour** (calls only show in the menu bar) and **Open at login**.
 - **Read FAQs**, **Send feedback…**, **Check for updates…** and **Quit Tea Time**.
 

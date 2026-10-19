@@ -14,7 +14,7 @@ There is no account and no server. Tea Time finds people on the same Wi-Fi or of
 | --- | --- |
 | 20 Oct 2026 | [TeaTime-1.1.0.dmg](https://github.com/ntsh08/Tea-Time/releases/download/v1.1.0/TeaTime-1.1.0.dmg) |
 
-Open the DMG and drag Tea Time into Applications. If you already have Tea Time, quit it first and choose Replace. Version 1.1.0 doesn't work with 1.0.0, so everyone should update.
+Open the DMG and drag Tea Time into Applications. If you have an older Tea Time (named TeaTime), quit it and delete it from Applications first. Version 1.1.0 doesn't work with 1.0.0, so everyone should update.
 
 Needs macOS 13 or later. Works on Apple Silicon and Intel Macs.
 
@@ -23,12 +23,12 @@ Needs macOS 13 or later. Works on Apple Silicon and Intel Macs.
 Tea Time is not yet signed with an Apple developer certificate, so macOS will say it cannot check the app for malicious software the first time you open it. You only do this once.
 
 **macOS 15 (Sequoia) or later**
-1. Open TeaTime from Applications. macOS says "TeaTime" Not Opened. Click **Done** (not Move to Bin).
+1. Open Tea Time from Applications. macOS says "Tea Time" Not Opened. Click **Done** (not Move to Bin).
 2. Open **System Settings → Privacy & Security** and scroll down.
-3. Next to "TeaTime was blocked to protect your Mac", click **Open Anyway** and confirm.
+3. Next to "Tea Time was blocked to protect your Mac", click **Open Anyway** and confirm.
 
 **macOS 13 or 14**
-1. In Applications, right-click TeaTime and choose **Open**.
+1. In Applications, right-click Tea Time and choose **Open**.
 2. Click **Open** in the dialog.
 
 If macOS asks to find devices on your local network, choose **Allow**. Tea Time needs it to find people nearby.
@@ -43,8 +43,9 @@ Open Tea Time from the Dock, or click the cup in the menu bar. On first launch i
 - Each person shows **Connected** (you have both added each other), **Waiting for them to add you**, or **Not nearby**.
 - A call only reaches people who have added you back, so everyone adds each other once.
 - Hover over a person to **Remove** them.
+- **Invite People…** shares the download link from the main window too.
 
-**Call animation** picks Chai or Sutta. **Preview** plays it on your screen only. **Call Chai** sends it; there is a 30 second wait before you can call again, and you see a small "call sent" card instead of the animation.
+**Call animation** is a list: click Chai or Sutta to pick one, and hover over it to **Preview** it on your screen only. **Call Chai** sends it; there is a 30 second wait before you can call again, and you see a small "call sent" card instead of the animation.
 
 The menu bar menu has the same options, plus **Recent** (calls from the last half hour), **Notify** (leave people out of a call), **Display name…**, **Animation style** (Plain or Dramatic), **Animation position**, **Allow sound**, **Snooze for 1 hour** and **Open at login**.
 

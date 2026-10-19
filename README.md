@@ -12,8 +12,7 @@ There is no account and no server. Tea Time finds teammates on the local network
 
 | Release date | Download |
 | --- | --- |
-| 19 Oct 2026 | [TeaTime-0.1.1.dmg](https://github.com/ntsh08/Tea-Time/releases/download/v0.1.1/TeaTime-0.1.1.dmg) |
-| 19 Oct 2026 | [TeaTime-0.1.0.dmg](https://github.com/ntsh08/Tea-Time/releases/download/v0.1.0/TeaTime-0.1.0.dmg) |
+| 19 Oct 2026 | [TeaTime-1.0.0.dmg](https://github.com/ntsh08/Tea-Time/releases/download/v1.0.0/TeaTime-1.0.0.dmg) |
 
 Open the DMG and drag Tea Time into Applications. If you already have Tea Time, quit it first and choose Replace.
 

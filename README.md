@@ -23,12 +23,12 @@ Needs macOS 13 or later. Works on Apple Silicon and Intel Macs.
 Tea Time is not yet signed with an Apple developer certificate, so macOS will say it cannot check the app for malicious software the first time you open it. You only do this once.
 
 **macOS 15 (Sequoia) or later**
-1. Open Tea Time from Applications. macOS shows the warning. Click **Done**.
+1. Open TeaTime from Applications. macOS says "TeaTime" Not Opened. Click **Done** (not Move to Bin).
 2. Open **System Settings → Privacy & Security** and scroll down.
-3. Next to "Tea Time was blocked", click **Open Anyway** and confirm.
+3. Next to "TeaTime was blocked to protect your Mac", click **Open Anyway** and confirm.
 
 **macOS 13 or 14**
-1. In Applications, right-click Tea Time and choose **Open**.
+1. In Applications, right-click TeaTime and choose **Open**.
 2. Click **Open** in the dialog.
 
 If macOS asks to find devices on your local network, choose **Allow**. Tea Time needs it to reach your teammates.

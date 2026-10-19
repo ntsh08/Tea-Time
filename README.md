@@ -37,11 +37,19 @@ If macOS asks to find devices on your local network, choose **Allow**. Tea Time 
 
 Click the cup in the menu bar.
 
-- **Call Tea Time** sends it to everyone nearby. There is a 30 second wait before you can call again.
-- **Preview on this Mac** plays an animation only on your screen.
-- **Animation style** switches between Plain (calm) and Dramatic.
-- **Snooze for 1 hour** skips the animation. The call still shows in the menu bar.
-- **Open at login** keeps Tea Time running.
+- **Recent** lists calls from the last half hour. An orange dot means you haven't looked at one yet.
+- **Send a call**
+  - **Animation** picks which one to send (Chai or Sutta).
+  - **Notify** sends to everyone nearby, or only the people you tick.
+  - **Preview** plays it on your screen only. **Call** sends it. There is a 30 second wait before you can call again, and you see a small "call sent" card instead of the animation.
+- **On this Mac**
+  - **Animation style** switches between Plain (calm) and Dramatic.
+  - **Animation position** puts the animation in the center or a corner of your screen.
+  - **Your name** is what teammates see when you call.
+  - **Allow sound**, **Snooze for 1 hour** (calls only show in the menu bar) and **Open at login**.
+- **Read FAQs**, **Send feedback…**, **Check for updates…** and **Quit Tea Time**.
+
+If you miss a call, the cup keeps an orange dot and "Chai call" for a while.
 
 Ask your teammates to install it too. Everyone has to be on the same network.
 

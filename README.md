@@ -10,7 +10,11 @@ There is no account and no server. Tea Time finds teammates on the local network
 
 ## Download
 
-Get the latest **DMG** from the [Releases page](https://github.com/ntsh08/Tea-Time/releases/latest). Open it and drag Tea Time into Applications.
+| Release date | Download |
+| --- | --- |
+| 19 Oct 2026 | [TeaTime-0.1.0.dmg](https://github.com/ntsh08/Tea-Time/releases/download/v0.1.0/TeaTime-0.1.0.dmg) |
+
+Open the DMG and drag Tea Time into Applications.
 
 Needs macOS 13 or later. Works on Apple Silicon and Intel Macs.
 

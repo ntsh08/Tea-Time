@@ -12,7 +12,7 @@ There is no account and no server. Tea Time finds people on the same Wi-Fi or of
 
 | Release date | Download |
 | --- | --- |
-| 21 Oct 2026 | [TeaTime-1.1.6.dmg](https://github.com/ntsh08/Tea-Time/releases/download/v1.1.6/TeaTime-1.1.6.dmg) |
+| 21 Oct 2026 | [TeaTime-1.1.7.dmg](https://github.com/ntsh08/Tea-Time/releases/download/v1.1.7/TeaTime-1.1.7.dmg) |
 
 Open the DMG and drag Tea Time into Applications. If you have an older Tea Time (named TeaTime), quit it and delete it from Applications first. Everyone should be on 1.1 or later: it doesn't work with 1.0.0.
 

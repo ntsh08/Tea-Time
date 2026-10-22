@@ -24,6 +24,9 @@ Open the menu and click **Display name…** under **Send a call**. Leave it empt
 ## Can someone spam everyone?
 No. You can call once every 30 seconds, and anyone can snooze for an hour.
 
+## Can I stop calls after office hours?
+Yes. Turn on **Work hours** in the Tea Time window and pick a start and end time. Outside them you can't call, and calls you get only show in the menu bar.
+
 ## Does it interrupt meetings?
 It never takes your keyboard focus and it goes away on its own. If you are presenting, turn on **Snooze for 1 hour** from the menu. The call still shows in the menu bar, without the animation.
 

@@ -12,7 +12,7 @@ There is no account and no server. Tea Time finds people on the same Wi-Fi or of
 
 | Release date | Download |
 | --- | --- |
-| 21 Oct 2026 | [TeaTime-1.1.7.dmg](https://github.com/ntsh08/Tea-Time/releases/download/v1.1.7/TeaTime-1.1.7.dmg) |
+| 22 Oct 2026 | [TeaTime-1.1.8.dmg](https://github.com/ntsh08/Tea-Time/releases/download/v1.1.8/TeaTime-1.1.8.dmg) |
 
 Open the DMG and drag Tea Time into Applications. If you have an older Tea Time (named TeaTime), quit it and delete it from Applications first. Everyone should be on 1.1 or later: it doesn't work with 1.0.0.
 
@@ -45,9 +45,9 @@ Open Tea Time from the Dock, or click the cup in the menu bar. On first launch i
 - Hover over a person to **Remove** them.
 - **Invite People…** shares the download link from the main window too.
 
-**Call animation** is a list: click Chai or Sutta to pick one, and hover over it to **Preview** it on your screen only. **Call Chai** sends it; there is a 30 second wait before you can call again, and you see a small "call sent" card instead of the animation.
+**Call animation** is a list: click Chai, Sutta, Lunch or Hello to pick one, and hover over it to **Preview** it on your screen only. **Call Chai** sends it; there is a 30 second wait before you can call again (the button shows **Wait 23s**), and you see a small "call sent" card instead of the animation.
 
-The menu bar menu has the same options, plus **Recent** (calls from the last half hour), **Notify** (leave people out of a call), **Display name…**, **Animation style** (Plain or Dramatic), **Animation position**, **Allow sound**, **Snooze for 1 hour** and **Open at login**.
+The menu bar menu has the same options, plus **Recent** (calls from the last half hour), **Notify** (leave people out of a call), **Display name…**, **Animation style** (Plain or Dramatic), **Animation position**, **Allow sound**, **Snooze for 1 hour**, **Work hours only** and **Open at login**. Set your start and end time under **Work hours** in the window: outside them you can't call, and calls you get only show in the menu bar.
 
 If you miss a call, the cup keeps an orange dot and "Chai call" for a while.
 
